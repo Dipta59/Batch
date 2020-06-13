@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-13T01:51:20 EDT" name="Default Suite" finished-at="2020-06-13T01:53:02 EDT" duration-ms="102189">
+    <groups>
+    </groups>
+    <test started-at="2020-06-13T01:51:20 EDT" name="Maven_Automation" finished-at="2020-06-13T01:53:02 EDT" duration-ms="102189">
+      <class name="AutomationActionItems.Metlife_Page_Object">
+        <test-method is-config="true" signature="defineDriver()[pri:0, instance:AutomationActionItems.Metlife_Page_Object@3bd94634]" started-at="2020-06-13T01:51:15 EDT" name="defineDriver" finished-at="2020-06-13T01:51:20 EDT" duration-ms="4721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defineDriver -->
+        <test-method is-config="true" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:AutomationActionItems.Metlife_Page_Object@3bd94634]" started-at="2020-06-13T01:51:20 EDT" name="getMethodName" finished-at="2020-06-13T01:51:20 EDT" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void AutomationActionItems.Metlife_Page_Object.Metlife_Page_Object() throws java.lang.InterruptedException,java.io.IOException,jxl.read.biff.BiffException,jxl.write.WriteException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodName -->
+        <test-method signature="Metlife_Page_Object()[pri:0, instance:AutomationActionItems.Metlife_Page_Object@3bd94634]" started-at="2020-06-13T01:51:20 EDT" name="Metlife_Page_Object" finished-at="2020-06-13T01:53:02 EDT" duration-ms="102137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Metlife_Page_Object -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:AutomationActionItems.Metlife_Page_Object@3bd94634]" started-at="2020-06-13T01:53:02 EDT" name="endTest" finished-at="2020-06-13T01:53:02 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="closeInfo()[pri:0, instance:AutomationActionItems.Metlife_Page_Object@3bd94634]" started-at="2020-06-13T01:53:02 EDT" name="closeInfo" finished-at="2020-06-13T01:53:04 EDT" duration-ms="1635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeInfo -->
+      </class> <!-- AutomationActionItems.Metlife_Page_Object -->
+    </test> <!-- Maven_Automation -->
+  </suite> <!-- Default Suite -->
+</testng-results>
